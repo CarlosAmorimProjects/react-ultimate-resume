@@ -1,3 +1,8 @@
+Here's my CV made with the app bellow :
+
+https://carlosamorimprojects.github.io/react-ultimate-resume/
+
+
 <p align="center">
   <img src="https://cdn.filestackcontent.com/compress/fyFHRMfCRL2xhwCVtx0F" width="400" />
 </p>
