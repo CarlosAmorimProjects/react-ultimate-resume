@@ -75,6 +75,14 @@
     ],
 
     "skills": [
+
+        {
+            "name": "ReactJS",
+            "level": "Intermediate",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+
         {
             "name": "Javascript",
             "level": "Intermediate",
@@ -84,24 +92,19 @@
         {
             "name": "HTML",
             "level": "Intermediate",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "ReactJS",
-            "level": "Intermediate",
             "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
+        
     ],
     "languages": [
         { "language": "Portuguese", "value": 100, "fluency": "Native speaker" },
-        { "language": "English", "value": 80, "fluency": "Bilingual" }
+        { "language": "English", "value": 90, "fluency": "Bilingual" }
     ],
     "interests": [
         {
             "name": "Running",
-            "gifUrl": "https://media.tenor.com/images/a61df4b1ca2af0e9db895ae5f78a1f6c/tenor.gif"
+            "gifUrl": "https://www.storypick.com/wp-content/uploads/2015/12/bu6.gif"
         },
         {
             "name": "Reading",
@@ -153,27 +156,25 @@
         },
         "dreamJob": {
             "locations": [
-                { "name": "Porto or Braga, Portugal" },
-                { "name": "Europe" }
+                { "name": "Porto || Braga || Abroad" }
             ],
             "remoteFrequency": "regularly"
         },
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 1,
-            "codingReason": "Discover how things work and be able to do it myself",
+            "codingYears": 3,
+            "codingReason": "Discover how things work and be able to do it myself better",
             "searchState": "activelySearching",
             "experienceYears": 0
         },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/playlist/716blvTXLnXjvWJDFVvlq2"
-        },
+
         "interestedBy": "Python, interested in knowing this programming language better."
     },
     "customization": {
         "imageHeader": {
-            "url": "https://user-images.githubusercontent.com/37440264/77867428-1b94fe00-722f-11ea-978a-2da9d653a00d.png"
+            "url": "https://user-images.githubusercontent.com/37440264/77867428-1b94fe00-722f-11ea-978a-2da9d653a00d.png",
+            "alt": "header"
         },
         "theme": {
             "palette": {
