@@ -1,209 +1,179 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Carlos Amorim",
         "label": "Programmer",
-        "picture": "https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "picture": "https://user-images.githubusercontent.com/37440264/77866744-2e5a0380-722c-11ea-9265-fb778454ca01.jpg",
+        "phone": "(351) 966183316",
+        "summary": "Frontend developer",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Rua Combatentes do Ultramar 204",
+            "postalCode": "4740-260",
+            "city": "Esposende",
+            "countryCode": "PT"
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "network": "Linkedin",
+                "username": "Carlos Amorim",
+                "url": "https://www.linkedin.com/in/carlos-amorim/"
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": "Globaltest",
+            "position": "Technician",
+            "website": "http://wwww.globaltest.com",
+            "startDate": "2001-03-01",
+            "summary": "",
+            "location": "Barcelos, Portugal",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
+            "name": "Unbabel",
+            "position": "Translator",
+            "website": "http://wwww.unbabel.com",
+            "startDate": "2013-03-01",
+            "summary": "Translator from English to Portuguese, Portuguese to English",
+            "location": "Remote",
             "highlights": ["Started the company"]
         }
     ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
+
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
+            "institution": "Universidade Aberta",
+            "area": "Computer Engineering",
             "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "startDate": "2016-10-01",
+            "endDate": "2020-07-31",
+            "courses": [""]
         },
+
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
+            "institution": "Udemy",
+            "area": "Java 8 - Web, Android and WebService",
+            "startDate": "2018-07-01",
+            "endDate": "2018-11-01"
+        },
+
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
+            "institution": "Udemy",
+            "area": "ReactJS",
+            "startDate": "2019-07-01",
+            "endDate": "2019-10-15"
+        },
+
         {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "institution": "Rocketseat",
+            "area": "Fullstack web developer, backend, frontend & mobile",
+            "startDate": "2020-03-23",
+            "endDate": "2020-03-30"
         }
+
+        
     ],
+
     "skills": [
         {
-            "name": "Reactaaa",
-            "level": "Master",
-            "value": 100,
+            "name": "Javascript",
+            "level": "Intermediate",
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "NodeJS",
-            "level": "Master",
+            "name": "HTML",
+            "level": "Intermediate",
             "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
+            "name": "ReactJS",
+            "level": "Intermediate",
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
     "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" }
+        { "language": "Portuguese", "value": 100, "fluency": "Native speaker" },
+        { "language": "English", "value": 80, "fluency": "Bilingual" }
     ],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Running",
+            "gifUrl": "https://media.tenor.com/images/a61df4b1ca2af0e9db895ae5f78a1f6c/tenor.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Reading",
+            "gifUrl": "https://media.giphy.com/media/11gYYbySTvUC2s/giphy.gif"
         },
+
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name":"I like to be in contact with Nature. Not affraid of spiders !"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [{ "name": "Carlos Amorim", "reference": "Reference..." }],
     "projects": [
+
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
+            "name": "Everyday Hero",
+            "description": "Full-stack App: backend with node.js, frontend with ReactJS, mobile with expo, TDD tests with jest",
+            "link": "https://github.com/CarlosAmorimProjects/Everyday_Hero"
+        },
+
+        {
+            "name": "Despesismo",
+            "description": "ReactJS app , personal expenses record, enter all expenses, filters the expenses by value and date, returns total spent between date.",
+            "link": "https://github.com/CarlosAmorimProjects/Despesismo"
+        },
+
+        {
+            "name": "Indecisão",
+            "description": "ReactJS app, if user is undecided between a few options, enters the options, the algorithm randomly chooses for the user.",
+            "link": "https://github.com/CarlosAmorimProjects/Indecisao"
+        },
+
+        {
+            "name": "kd-arch.pt",
+            "description": "Website, interior design website.",
+            "link": "https://github.com/CarlosAmorimProjects/kd-arch"
+        },
+
+        {
+            "name": "Youtube API",
+            "description": "App sends a request to the Youtube API and receives the response, the videos can be sorted by most recent or most viewed.",
+            "link": "https://github.com/CarlosAmorimProjects/Youtube_API"
         }
+
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "Frontend developer that likes to work with new technologies and develop user friendly apps."
         },
         "dreamJob": {
             "locations": [
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" }
+                { "name": "Porto or Braga, Portugal" },
+                { "name": "Europe" }
             ],
             "remoteFrequency": "regularly"
-        },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
         },
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingYears": 1,
+            "codingReason": "Discover how things work and be able to do it myself",
             "searchState": "activelySearching",
-            "experienceYears": 9
+            "experienceYears": 0
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/playlist/716blvTXLnXjvWJDFVvlq2"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Python, interested in knowing this programming language better."
     },
     "customization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
+            "url": "https://user-images.githubusercontent.com/37440264/77867428-1b94fe00-722f-11ea-978a-2da9d653a00d.png"
         },
         "theme": {
             "palette": {
